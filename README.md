@@ -1,7 +1,6 @@
 # Bayesian Physics-Guided BiLSTM for Joint SoC/SoH Estimation from Raw EIS Spectra
 https://doi.org/10.5281/zenodo.22724847
-Code and trained models accompanying the manuscript submitted to *Journal of
-Energy Storage*. This repository reproduces every reported number and figure
+Code and trained models accompanying the manuscript submitted to Journal. This repository reproduces every reported number and figure
 from the raw dataset.
 
 ## Repository structure
