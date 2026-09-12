@@ -1,0 +1,46 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# --- Virtual environments ---
+venv/
+env/
+.venv/
+ENV/
+
+# --- IDE / editor ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Logs ---
+*.log
+
+# --- Regenerable figure outputs ---
+# Uncomment the next line if you'd rather have figures/ regenerated on demand
+# (via the scripts in figures/) than committed as binary PNGs in git history.
+# Leave it commented if you want the exact images from the paper preserved
+# in the repo without needing to rerun anything.
+# figures/output/
+
+# --- Local scratch / temp ---
+*.tmp
+tmp/
+scratch/
